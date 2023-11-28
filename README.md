@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -15,7 +15,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
     - [Useful resources](#useful-resources)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -49,20 +48,11 @@ Users should be able to:
 - [jQuery](https://jquery.com/) - JS library
 
 
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [YouTube Video]([https://www.example.com](https://www.youtube.com/watch?v=Z4qdA0HvwNc)) - This helped me with the radio buttons. I really liked this pattern and will use it going forward.
-
 
 ## Author
 
 - Website - [Dennis Amoah](https://github.com/damoah2)
 - Frontend Mentor - [@damoah2](https://www.frontendmentor.io/profile/damoah2)
-
