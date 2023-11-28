@@ -96,3 +96,31 @@ body {
 .attribution a {
     color: hsl(228, 45%, 44%); 
 }
+
+
+.disabled {
+    display: none;
+}
+
+.thank-you {
+    text-align: center;
+}
+
+.thank-you .result-icon {
+    margin: 10px 0 20px;
+}
+
+.thank-you h1 {
+    color: hsl(0, 0%, 100%);
+    margin-top: 30px;
+    
+}
+
+.thank-you .result-highlight {
+    background-color: hsl(219, 17%, 20%);
+    color: hsl(25, 97%, 53%);
+    border-radius: 20px;
+    padding: 10px 5px;
+    max-width: 180px;
+    margin: 0 auto;
+}
