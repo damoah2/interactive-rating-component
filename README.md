@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-Ss3RPZsVBp](https://www.frontendmentor.io/solutions/interactive-rating-component-Ss3RPZsVBp)
 - Live Site URL: [https://damoah2.github.io/interactive-rating-component/](https://damoah2.github.io/interactive-rating-component/)
 
 ## My process
@@ -59,7 +59,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [YouTube Video]([https://www.example.com](https://www.youtube.com/watch?v=Z4qdA0HvwNc)) - This helped me with the radio buttons. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
